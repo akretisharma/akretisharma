@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi I'm Akreti!! 👋
 
+- 👀 I am a junior @ St. Augustine Secondary School
+- 🔭 I'm obsessed with all things AI/ML, medicine, and CS!!
+- 📫 Email: akretisharm06@gmail.com
+- 💬 Linkedin: https://www.linkedin.com/in/akretisharma/
 <!--
 **akretisharma/akretisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
