@@ -1,7 +1,8 @@
-Hi I'm Akreti!! 👋
+Hi, I'm Akreti!! 👋
 
 - 👀 I am a junior @ St. Augustine Secondary School
 - 🔭 I'm obsessed with all things AI/ML, medicine, and CS!!
+- 🌱 My most recent project is an app, called Care Comrade, which was made using Swift!
 - 📫 Email: akretisharm06@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/akretisharma/
 <!--
