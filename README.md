@@ -1,10 +1,11 @@
 Hi, I'm Akreti!! 👋
 
-- 🤔 I am a grade 11 AP student @ St. Augustine Secondary School
+- 🤔 I am a grade 12 AP student @ St. Augustine Secondary School
 - 🔭 I'm obsessed with all things AI/ML, biology, and CS!!
 - 🌱 My most recent project is an app, called Gaiaintel, which was made using Swift!
 - 📫 Email: akretisharm@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/akretisharma/
+- 😄 Portfolio: https://akretisharma.github.io/
 <!--
 **akretisharma/akretisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
