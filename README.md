@@ -1,8 +1,8 @@
 Hi, I'm Akreti!! 👋
 
-- 🤔 I am a grade 12 AP student @ St. Augustine Secondary School
+- 🤔 I am an incoming CS major @ UWaterloo
 - 🔭 I'm obsessed with all things AI/ML, biology, and CS!!
-- 🌱 My most recent project is an app, called Gaiaintel, which was made using Swift!
+- 🌱 My most recent project is my personal website!! Check it out https://akretisharma.github.io/
 - 📫 Email: akretisharma@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/akretisharma/
 - 😄 Portfolio: https://akretisharma.github.io/
