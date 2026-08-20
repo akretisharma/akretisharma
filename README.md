@@ -2,7 +2,7 @@ Hi, I'm Akreti!! 👋
 
 - 🤔 I am an incoming CS major @ UWaterloo
 - 🔭 I'm obsessed with all things AI/ML, biology, and CS!!
-- 🌱 My most recent project is my personal website!! Check it out https://akretisharma.github.io/
+- 🌱 My most recent project is my personal website. Check it out at https://akretisharma.github.io/
 - 📫 Email: akretisharma@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/akretisharma/
 - 😄 Portfolio: https://akretisharma.github.io/
